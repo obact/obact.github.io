@@ -1,0 +1,1 @@
+(self.webpackChunkobact=self.webpackChunkobact||[]).push([[522],{8522:function(){}}]);
